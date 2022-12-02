@@ -1,0 +1,52 @@
+{
+  "property": [
+    {
+      "id": 1,
+      "number": "123 Properties",
+      "name": "Apartment",
+      "img": "icon-apartment.png"
+    },
+    {
+       "id": 2,
+       "number": "123 Properties",
+       "name":"Villa",
+       "img":"icon-villa.png"
+    },
+    {
+      "id": 3,
+      "number": "123 Properties",
+      "name":"Home",
+      "img":"icon-house.png"
+    },
+    {
+      "id": 4,
+      "number": "123 Properties",
+      "name": "Office",
+      "img": "icon-housing.png"
+    },
+    {
+      "id": 5,
+      "number": "123 Properties",
+      "name": "Building",
+      "img": "icon-Building.png"
+    },
+    {
+      "id": 6,
+      "number":"123 Properties",
+      "name":"Townhouse",
+      "img":"icon-neighborhood.png"
+    },
+    {
+      "id": 7,
+      "number":"123 Properties",
+      "name":"Shop",
+      "img":"icon-condominium.png"
+    },
+    {
+      "id": 8,
+      "number":"123 Properties",
+      "name":"Garge",
+      "img":"icon-luxury-png"
+    }
+  ]
+}

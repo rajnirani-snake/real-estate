@@ -1,0 +1,77 @@
+{
+  "propertyList": [
+  {
+    "id":1,
+    "price":"$12345",
+    "type":"Apartment",
+    "location":"123 Street, New York, USA",
+    "for":"For Sell",
+    "bed":3,
+    "bath":2,
+    "size":"1000 Sqft",
+    "name":"Golden Urban House For Sell",
+    "img":"property-1.jpg"
+  },
+  {
+    "id":2,
+    "price":"$12345",
+    "type":"Villa",
+    "location":"123 Street, New York, USA",
+    "for":"For Rent",
+    "bed":3,
+    "bath":2,
+    "size":"1000 Sqft",
+    "name":"Golden Urban House For Sell",
+    "img":"property-2.jpg"
+  },
+  {
+    "id":3,
+    "price":"$12345",
+    "type":"Office",
+    "location":"123 Street, New York, USA",
+    "for":"For Sell",
+    "bed":3,
+    "bath":2,
+    "size":"1000 Sqft",
+    "name":"Golden Urban House For Sell",
+    "img":"property-3.jpg"
+  },
+  {
+    "id":4,
+    "price":"$12345",
+    "type":"Building",
+    "location":"123 Street, New York, USA",
+    "for":"For Rent",
+    "bed":3,
+    "bath":2,
+    "size":"1000 Sqft",
+    "name":"Golden Urban House For Sell",
+    "img":"property-4.jpg"
+  },
+  {
+    "id":5,
+    "price":"$12345",
+    "type":"Home",
+    "location":"123 Street, New York, USA",
+    "for":"For Sell",
+    "bed":3,
+    "bath":2,
+    "size":"1000 Sqft",
+    "name":"Golden Urban House For Sell",
+    "img":"property-5.jpg"
+  },
+  {
+    "id":6,
+    "price":"$12345",
+    "type":"Shop",
+    "location":"123 Street, New York, USA",
+    "for":"For Rent",
+    "bed":3,
+    "bath":2,
+    "size":"1000 Sqft",
+    "name":"Golden Urban House For Sell",
+    "img":"property-6.jpg"
+  }
+  ]
+  
+}
